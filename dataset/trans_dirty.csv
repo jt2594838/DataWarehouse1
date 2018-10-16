@@ -1,0 +1,3 @@
+trans_id,account_id,date,type,operation,amount,balance,k_symbol,bank,account
+757581,2584,1994-07-08 00:00:00,VYDAJ,PREVOD NA UCET,994,15d986,SIPO,OP,90582960
+18488,62,1995-01-08 00:00:00,VYDAJ,PREVOD NA UCET,-2273,22841,SIPO,EF,80010622
